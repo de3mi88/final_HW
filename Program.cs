@@ -1,0 +1,1 @@
+﻿string[] arrayFirst = { "*-*", "Hello Rustem", "-_-", "20", "superhero", "-1" };
