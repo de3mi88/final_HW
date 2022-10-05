@@ -1,5 +1,8 @@
 ﻿string[] arrayFirst = { "*-*", "Hello Rustem", "-_-", "20", "superhero", "-1" };
 
+Printmassive2(arrayFirst);
+Printmassive2(GetSecondarray(arrayFirst));
+
 string[] GetSecondarray(string[] array)
 {
    string[] array2 = { "", "", "", "","","" };
