@@ -13,3 +13,12 @@ string[] GetSecondarray(string[] array)
     }
     return array2;
 }
+
+void Printmassive2(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
